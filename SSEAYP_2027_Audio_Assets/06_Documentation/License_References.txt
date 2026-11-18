@@ -1,0 +1,346 @@
+SSEAYP 2027 - POLEWALI MANDAR CULTURAL PROFILE VIDEO
+AUDIO ASSET LICENSE REFERENCES & VERIFICATION LOG
+========================================================================
+
+1. LICENSE TERMS OVERVIEW
+------------------------------------------------------------------------
+* Mixkit Free Music & SFX License (https://mixkit.co/license/):
+  - Permitted: YouTube videos, social media posts, online promotional videos.
+  - Attribution: Not required (credit appreciated).
+  - Restrictions: No TV/radio broadcast, no video games, no CD/DVD, no remixing into standalone music, no Content ID registration.
+
+* Incompetech / Kevin MacLeod (Creative Commons Attribution 4.0 - CC BY 4.0):
+  - License URL: https://creativecommons.org/licenses/by/4.0/
+  - Attribution: MANDATORY if any Incompetech alternative is used in the final edit.
+
+* Institutional Mandar Cultural Footage Permission (Confirmed by User 2026-11-18):
+  - Source: DOKUMENTER SAIYANG PATTUQDUQ [Ccn0-YZyUmI].mp4 (Polewali Mandar cultural documentation).
+  - Attribution: Credit Polewali Mandar Cultural Institution / Dokumenter Saiyang Pattuqduq.
+
+2. APPROVED & ALTERNATIVE AUDIO ASSETS
+------------------------------------------------------------------------
+
+[MUS-01] MUSIC_Opening_Atmospheric_Discover_Mixkit.mp3 (Approved)
+  Title     : Discover
+  Creator   : Eugenio Mininni
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/587/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required (credit appreciated: Eugenio Mininni / Mixkit)
+  File Spec : 02:24 | 256 kbps / 44100 Hz / 2ch (peak -0.9 dBFS)
+
+[MUS-02] MUSIC_Cultural_Support_Classical_Vibes_4_Mixkit.mp3 (Approved)
+  Title     : Classical vibes 4
+  Creator   : Grigoriy Nuzhny
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/684/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required (credit appreciated: Grigoriy Nuzhny / Mixkit)
+  File Spec : 02:17 | 256 kbps / 44100 Hz / 2ch (peak -0.1 dBFS)
+
+[MUS-03] MUSIC_Maritime_Cinematic_Driving_Ambition_Mixkit.mp3 (Approved)
+  Title     : Driving Ambition
+  Creator   : Ahjay Stelino
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/32/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required (credit appreciated: Ahjay Stelino / Mixkit)
+  File Spec : 01:42 | 256 kbps / 44100 Hz / 2ch (peak 0.0 dBFS)
+
+[MUS-04] MUSIC_Closing_Emotional_Rebecca_On_The_Shore_Mixkit.mp3 (Approved)
+  Title     : Rebecca on the Shore
+  Creator   : Eugenio Mininni
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/545/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required (credit appreciated: Eugenio Mininni / Mixkit)
+  File Spec : 01:52 | 256 kbps / 44100 Hz / 2ch (peak -2.3 dBFS)
+
+[MAN-01] MUSIC_Cultural_Mandar_Rebana_Parrawana_Dokumenter.wav (Approved)
+  Title     : Mandar Rebana (Parrawana) Pure Percussion (08:57.0–09:11.6)
+  Creator   : Mandar Cultural Performers / Dokumenter Saiyang Pattuqduq
+  Source    : Supplied Workspace Video (Ccn0-YZyUmI) - Institution Cleared
+  Source URL: Local file: DOKUMENTER SAIYANG PATTUQDUQ [Ccn0-YZyUmI].mp4 (https://youtu.be/Ccn0-YZyUmI)
+  License   : Institutional Permission Confirmed by Delegate / Agency (2026-11-18)
+  Attrib.   : Credit Dokumenter Saiyang Pattuqduq / Polewali Mandar Cultural Institution
+  File Spec : 00:14.60 | PCM 16-bit / 48000 Hz / 2ch (peak -0.6 dBFS)
+
+[MAN-02] MUSIC_Cultural_Mandar_Kacapi_Sayyang_Pattudu_Dokumenter.wav (Approved)
+  Title     : Mandar Traditional Plucked Instrumental (09:44.5–11:05.0)
+  Creator   : Dokumenter Saiyang Pattuqduq
+  Source    : Supplied Workspace Video (Ccn0-YZyUmI) - Institution Cleared
+  Source URL: Local file: DOKUMENTER SAIYANG PATTUQDUQ [Ccn0-YZyUmI].mp4 (https://youtu.be/Ccn0-YZyUmI)
+  License   : Institutional Permission Confirmed by Delegate / Agency (2026-11-18)
+  Attrib.   : Credit Dokumenter Saiyang Pattuqduq / Polewali Mandar Cultural Institution
+  File Spec : 01:20 | PCM 16-bit / 48000 Hz / 2ch (peak -1.4 dBFS)
+
+[MAN-03] MUSIC_Cultural_Mandar_Sayyang_Pattudu_Procession_Dokumenter.wav (Approved)
+  Title     : Sayyang Pattu'du Festival Procession & Chant (08:46.3–08:57.0)
+  Creator   : Mandar Cultural Performers / Dokumenter Saiyang Pattuqduq
+  Source    : Supplied Workspace Video (Ccn0-YZyUmI) - Institution Cleared
+  Source URL: Local file: DOKUMENTER SAIYANG PATTUQDUQ [Ccn0-YZyUmI].mp4 (https://youtu.be/Ccn0-YZyUmI)
+  License   : Institutional Permission Confirmed by Delegate / Agency (2026-11-18)
+  Attrib.   : Credit Dokumenter Saiyang Pattuqduq / Polewali Mandar Cultural Institution
+  File Spec : 00:10.70 | PCM 16-bit / 48000 Hz / 2ch (peak -0.1 dBFS)
+
+[MAN-04] MUSIC_Cultural_Mandar_Pakkalindadaq_Full_Performance_Dokumenter.wav (Approved)
+  Title     : Pakkalinda'daq Full Verse + Rebana Entrance (07:34.1–07:45.6)
+  Creator   : Mandar Pakkalinda'daq Performer / Dokumenter Saiyang Pattuqduq
+  Source    : Supplied Workspace Video (Ccn0-YZyUmI) - Institution Cleared
+  Source URL: Local file: DOKUMENTER SAIYANG PATTUQDUQ [Ccn0-YZyUmI].mp4 (https://youtu.be/Ccn0-YZyUmI)
+  License   : Institutional Permission Confirmed by Delegate / Agency (2026-11-18)
+  Attrib.   : Credit Dokumenter Saiyang Pattuqduq / Polewali Mandar Cultural Institution
+  File Spec : 00:11.50 | PCM 16-bit / 48000 Hz / 2ch (peak -0.6 dBFS)
+
+[SFX-01] SFX_Opening_Cinematic_Impact_Mixkit.mp3 (Approved)
+  Title     : Big cinematic impact
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/788/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:07.94 | 320 kbps / 44100 Hz / 2ch (peak -0.4 dBFS)
+
+[SFX-02] SFX_Climax_Whoosh_Deep_Impact_Mixkit.mp3 (Approved)
+  Title     : Cinematic whoosh deep impact
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/1143/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:04.08 | 320 kbps / 44100 Hz / 2ch (peak -0.4 dBFS)
+
+[SFX-03] SFX_Maritime_Trailer_Epic_Impact_Mixkit.wav (Approved)
+  Title     : Movie trailer epic impact
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/2908/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:04.87 | PCM 16-bit / 44100 Hz / 2ch (peak -0.7 dBFS)
+
+[SFX-04] SFX_Transition_Trailer_Riser_Mixkit.wav (Approved)
+  Title     : Cinematic trailer riser
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/790/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:02.57 | PCM 16-bit / 44100 Hz / 2ch (peak -6.3 dBFS)
+
+[SFX-05] SFX_Transition_Wind_Swoosh_Mixkit.wav (Approved)
+  Title     : Cinematic wind swoosh
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/1471/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:01.45 | PCM 16-bit / 44100 Hz / 2ch (peak -2.6 dBFS)
+
+[SFX-06] SFX_Transition_Fast_Whoosh_Mixkit.wav (Approved)
+  Title     : Cinematic whoosh fast transition
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/1492/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:01.33 | PCM 16-bit / 44100 Hz / 2ch (peak -0.5 dBFS)
+
+[SFX-07] SFX_Ambience_Close_Sea_Waves_Mixkit.wav (Approved)
+  Title     : Close sea waves loop
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/1195/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:29 | PCM 16-bit / 44100 Hz / 2ch (peak -1.1 dBFS)
+
+[SFX-08] SFX_Ambience_Sea_Waves_Loop_Mixkit.wav (Approved)
+  Title     : Sea waves loop
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/1196/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:48 | PCM 16-bit / 44100 Hz / 2ch (peak -1.0 dBFS)
+
+[SFX-09] SFX_Ambience_Windy_Sea_Loop_Mixkit.wav (Approved)
+  Title     : Windy sea loop
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/1200/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:30 | PCM 16-bit / 44100 Hz / 2ch (peak -0.1 dBFS)
+
+[SFX-10] SFX_Ambience_Wind_Blowing_Mixkit.wav (Approved)
+  Title     : Wind blowing ambience
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/2658/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 01:02 | PCM 16-bit / 44100 Hz / 2ch (peak -6.0 dBFS)
+
+[SFX-11] SFX_Transition_Epic_Orchestra_Swell_Mixkit.wav (Approved)
+  Title     : Epic orchestra transition
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/2290/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:07.12 | PCM 16-bit / 44100 Hz / 2ch (peak -1.1 dBFS)
+
+[SFX-12] SFX_Transition_Windy_Swoosh_Mixkit.wav (Approved)
+  Title     : Transition windy swoosh
+  Creator   : Mixkit Sound Effects
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-sound-effects/download/1474/
+  License   : Mixkit Sound Effects Free License (Commercial & social media use allowed)
+  Attrib.   : Not required
+  File Spec : 00:03.20 | PCM 16-bit / 44100 Hz / 2ch (peak 0.0 dBFS)
+
+[ORG-01] ORIGINAL_Pakkalindadaq_Live_Performance.wav (Approved)
+  Title     : IMG_3894.MOV Pakkalinda'daq Live Performance (00:41.0–00:47.6)
+  Creator   : Original Field Footage (IMG_3894.MOV)
+  Source    : Supplied Video Footage (IMG_3894.MOV)
+  Source URL: Local file: IMG_3894.MOV (00:41.00–00:47.60)
+  License   : Original Supplied Project Footage
+  Attrib.   : Preserved authentic Mandar performance
+  File Spec : 00:06.60 | PCM 16-bit / 44100 Hz / 2ch (peak -14.4 dBFS)
+
+[ORG-02] ORIGINAL_Closing_Dialogue_Haerul.wav (Approved)
+  Title     : IMG_3894.MOV Delegate Closing Dialogue (01:37.5–01:48.4)
+  Creator   : Muhammad Haerul (IMG_3894.MOV)
+  Source    : Supplied Video Footage (IMG_3894.MOV)
+  Source URL: Local file: IMG_3894.MOV (01:37.50–01:48.43)
+  License   : Original Supplied Project Footage
+  Attrib.   : Delegate dialogue stem
+  File Spec : 00:10.91 | PCM 16-bit / 44100 Hz / 2ch (peak -12.4 dBFS)
+
+[ORG-03] ORIGINAL_Garuda50_Intro.wav (Approved)
+  Title     : IMG_3894.MOV Garuda 50 Intro Audio (00:00.0–00:04.2)
+  Creator   : Original Supplied Footage (IMG_3894.MOV)
+  Source    : Supplied Video Footage (IMG_3894.MOV)
+  Source URL: Local file: IMG_3894.MOV (00:00.00–00:04.20)
+  License   : Original Supplied Project Footage
+  Attrib.   : Garuda 50 official intro sting
+  File Spec : 00:04.20 | PCM 16-bit / 44100 Hz / 2ch (peak -7.6 dBFS)
+
+[ALT-01] MUSIC_Opening_Alt_Forest_Mist_Whispers_Mixkit.mp3 (Alternative)
+  Title     : Forest Mist Whispers
+  Creator   : Alejandro Magaña (A. M.)
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/148/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required
+  File Spec : 02:31 | 256 kbps / 48000 Hz / 2ch (peak -0.1 dBFS)
+
+[ALT-02] MUSIC_Opening_Alt_A_New_Life_Mixkit.mp3 (Alternative)
+  Title     : A New Life
+  Creator   : Eugenio Mininni
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/543/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required
+  File Spec : 01:39 | 256 kbps / 44100 Hz / 2ch (peak -0.3 dBFS)
+
+[ALT-03] MUSIC_Opening_Alt_Immersed_Incompetech.mp3 (Alternative)
+  Title     : Immersed
+  Creator   : Kevin MacLeod
+  Source    : Incompetech
+  Source URL: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600010
+  License   : Creative Commons: By Attribution 4.0 (CC BY 4.0)
+  Attrib.   : REQUIRED: "Immersed" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+  File Spec : 04:09 | 256 kbps / 44100 Hz / 2ch (peak -2.7 dBFS)
+
+[ALT-04] MUSIC_Cultural_Support_Alt_Rumination_Incompetech.mp3 (Alternative)
+  Title     : Rumination
+  Creator   : Kevin MacLeod
+  Source    : Incompetech
+  Source URL: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100354
+  License   : Creative Commons: By Attribution 4.0 (CC BY 4.0)
+  Attrib.   : REQUIRED: "Rumination" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+  File Spec : 02:52 | 320 kbps / 48000 Hz / 2ch (peak -5.9 dBFS)
+
+[ALT-05] MUSIC_Cultural_Support_Alt_Classical_Vibes_2_Mixkit.mp3 (Alternative)
+  Title     : Classical vibes 2
+  Creator   : Grigoriy Nuzhny
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/682/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required
+  File Spec : 01:53 | 256 kbps / 44100 Hz / 2ch (peak -0.1 dBFS)
+
+[ALT-06] MUSIC_Maritime_Alt_Dreaming_Big_Mixkit.mp3 (Alternative)
+  Title     : Dreaming Big
+  Creator   : Ahjay Stelino
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/31/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required
+  File Spec : 01:50 | 256 kbps / 44100 Hz / 2ch (peak -0.0 dBFS)
+
+[ALT-07] MUSIC_Maritime_Alt_Eternal_Hope_Incompetech.mp3 (Alternative)
+  Title     : Eternal Hope
+  Creator   : Kevin MacLeod
+  Source    : Incompetech
+  Source URL: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100238
+  License   : Creative Commons: By Attribution 4.0 (CC BY 4.0)
+  Attrib.   : REQUIRED: "Eternal Hope" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+  File Spec : 04:44 | 320 kbps / 44100 Hz / 2ch (peak -5.4 dBFS)
+
+[ALT-08] MUSIC_Maritime_Alt_Possible_Dreams_Mixkit.mp3 (Alternative)
+  Title     : Possible Dreams
+  Creator   : Eugenio Mininni
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/599/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required
+  File Spec : 02:39 | 256 kbps / 44100 Hz / 2ch (peak -0.1 dBFS)
+
+[ALT-09] MUSIC_Closing_Alt_Reawakening_Incompetech.mp3 (Alternative)
+  Title     : Reawakening
+  Creator   : Kevin MacLeod
+  Source    : Incompetech
+  Source URL: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400017
+  License   : Creative Commons: By Attribution 4.0 (CC BY 4.0)
+  Attrib.   : REQUIRED: "Reawakening" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+  File Spec : 03:34 | 320 kbps / 44100 Hz / 2ch (peak -16.4 dBFS)
+
+[ALT-10] MUSIC_Closing_Alt_Miss_You_Mixkit.mp3 (Alternative)
+  Title     : Miss You
+  Creator   : Eugenio Mininni
+  Source    : Mixkit
+  Source URL: https://mixkit.co/free-stock-music/download/592/
+  License   : Mixkit Free Music License (Free for YouTube, social media, online promotional videos)
+  Attrib.   : Not required
+  File Spec : 03:58 | 256 kbps / 44100 Hz / 2ch (peak -0.2 dBFS)
+
+3. SECONDARY REFERENCE LEADS (LICENSE REVIEW REQUIRED IF USED)
+------------------------------------------------------------------------
+
+[REV-01] Pukulan has gendang dari MANDAR ( Majene )
+  Creator   : 3cahaya Production
+  Source URL: https://www.youtube.com/watch?v=qAg5zKqoknM
+  License   : YouTube metadata shows Creative Commons Attribution license (reuse allowed); performer release unverified.
+  Action    : Secondary backup lead; MAN-01..MAN-04 already provide cleared authentic Mandar audio.
+
+[REV-02] Kuda Pattudu Etnic Mandar 1.3gp
+  Creator   : Juen Kelana
+  Source URL: https://www.youtube.com/watch?v=N3g4zKU6JyY
+  License   : YouTube metadata shows Creative Commons Attribution license (reuse allowed); performer release unverified.
+  Action    : Secondary backup lead.
+
+[REV-03] Ethno Landscape (Section 5 Reference Lead)
+  Creator   : Lexin_Music
+  Source URL: https://pixabay.com/music/build-up-scenes-ethno-landscape-119949/
+  License   : Pixabay Content License (Blocked by Cloudflare 403 to automated download; NOT authentic Mandar)
+  Action    : Replaced by cleared MAN-02 & MUS-02.
+
+[REV-04] Cinematic Epic Sea Adventure (Section 5 Reference Lead)
+  Creator   : Glebator (Gleb Derezhkov)
+  Source URL: https://audiojungle.net/ (Glebator portfolio)
+  License   : Commercial Paid License Required (Envato / AudioJungle - NOT free Pixabay)
+  Action    : Verified as paid commercial track. Replaced by cleared MUS-03.
+
